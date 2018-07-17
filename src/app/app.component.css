@@ -57,7 +57,7 @@ footer{
     /* border: black 1px solid; */
 }
 
-#article1 {
+.article1 {
     float: left;
     /* max-width: 350px; */
     padding: 1em;
@@ -69,7 +69,7 @@ footer{
 }
 
 
-#article2 {
+.article2 {
     /* margin-left: 350px; */
     /* border-left: 1px solid gray; */
     padding: 1em;
